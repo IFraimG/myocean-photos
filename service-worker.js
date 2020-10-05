@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.e07160b0dac2d818d837bc03f16a66b2.js"
+  "/precache-manifest.40462ef69421e266c495a4041e12c720.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "junior-project"});
